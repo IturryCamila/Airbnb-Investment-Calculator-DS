@@ -38,7 +38,7 @@ Este `README` es solo la superficie. Para explorar el proyecto a fondo, tienes d
 
 | Documento | Audiencia | Propósito |
 | :--- | :--- | :--- |
-| ➡️ **[Ver el Dosier Ejecutivo (PDF)](./reporte/airbnb-investment-dossier.pdf)** | Reclutadores, Managers, Audiencia no técnica | Un resumen visual y de negocio de los hallazgos, el impacto y las conclusiones. |
+| ➡️ **[Ver el Dosier Ejecutivo (PDF)](./airbnb-investment-dossier.pdf)** | Reclutadores, Managers, Audiencia no técnica | Un resumen visual y de negocio de los hallazgos, el impacto y las conclusiones. |
 | ➡️ **[Explorar el Notebook Técnico (`.ipynb`)](./airbnb-investment-calculator.ipynb)** | Data Scientists, Líderes Técnicos | El análisis completo, con todo el código, la metodología detallada y cada paso de la construcción del modelo. |
 
 ---
